@@ -1,4 +1,4 @@
-# Desafio_interpolacion_variables
+# Desafio_tarjeta_credito
 
 Este proyecto es una página estatica que muestra una Cédula de Identidad realizada con HTML, CSS y Vue.js
 Los datos son agregados utilizando interpolación de Vue.js
